@@ -1,0 +1,7 @@
+
+* `for`
+    Es un ciclo que se repite hasta que se cumpla cierta condicion.
+puede ser un contador que te de todos los numeros del 1 al 10
+* `&&`, `||`, `!`
+    Son para combinar operaciones, por ejemplo, si tenes que separar
+todas las personas llamadas "Juan" y que sean mayores a 18.
