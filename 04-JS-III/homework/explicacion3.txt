@@ -1,0 +1,3 @@
+Arrays:
+Es una lista "ordenada" porque va del 0 al infinito, no porque sus elementos esten ordenados, de la cual
+podemos obtener cada uno de los elementos que puede ser cualquier TIPO de variable.
