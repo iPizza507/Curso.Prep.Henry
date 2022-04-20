@@ -1,0 +1,10 @@
+    * Objetos:
+    Un objeto puede ser cualquier cosa
+	* Propiedades
+    Las Propiedades de un objeto son 
+	* Métodos
+    Son las acciones que tienen los objetos, lo que pueden hacer.. Por ejemplo, saludar.
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+    Ambas son correctas, solo que una es más facil de escribir que la otra, siendo la notacion de puntos más facil de recordar.
+    Pero puede tener sus consecuencias.
